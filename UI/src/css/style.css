@@ -1,0 +1,18 @@
+#h{
+  margin-top: 25px;
+  background: #333333;
+  height: 130px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+#title{
+  text-align: center;
+  color: white;
+  font-family: 'Galada', cursive;
+}
+h1{
+  padding-top: 10px;
+  text-align: center;
+}
+#fewDetails{
+}
